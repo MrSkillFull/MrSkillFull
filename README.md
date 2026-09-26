@@ -33,7 +33,7 @@ Este é meu <a href="https://mrskillfull.github.io/dev-hub/" target="blank">dev-
 ---
 
 <div align="center">
-  <i>💬 Gostou do que viu? Vamos conversar! Fique à vontade para me contatar pelo LinkedIn ou por e-mail.</i>
+  <i>💬 Gostou do que viu? Vamos conversar! Fique à vontade para me contatar pelo LinkedIn ou por <a href="mailto:fernandoassisoliveiralima@gmail.com" target="blank">e-mail</a>.</i>
 </div>
 
 ###
