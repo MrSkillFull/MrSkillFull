@@ -1,6 +1,6 @@
 <h1 align="center">Olá! Eu sou o Fernando Lima 👋</h1>
 
-<h3 align="center">Desenvolvedor Full Stack | Entusiasta de Inteligência Artificial | Solucionador de Problemas</h3>
+<h3 align="center">Desenvolvedor Full Stack Junior | Entusiasta de Inteligência Artificial</h3>
 
 ###
 
@@ -26,14 +26,10 @@ Sou um desenvolvedor apaixonado por transformar ideias em soluções digitais ef
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MrSkillFull/MrSkillFull/output/pacman-contribution-graph.svg">
 </picture>
 
-## Quer me conhecer melhor?
-
-Este é meu <a href="https://mrskillfull.github.io/dev-hub/" target="blank">dev-hub</a> profissional. Aqui você encontrará meu Instagram, Linkedin e muito mais!
-
 ---
 
 <div align="center">
-  <i>💬 Gostou do que viu? Vamos conversar! Fique à vontade para me contatar pelo LinkedIn ou por <a href="mailto:fernandoassisoliveiralima@gmail.com" target="blank">e-mail</a>.</i>
+  <i>💬 Vamos conversar! Fique à vontade para me contatar pelo LinkedIn ou por <a href="mailto:fernandoassisoliveiralima@gmail.com" target="blank">e-mail</a>.</i>
 </div>
 
 ###
